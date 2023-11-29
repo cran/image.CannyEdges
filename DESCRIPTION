@@ -1,7 +1,7 @@
 Package: image.CannyEdges
 Type: Package
 Title: Implementation of the Canny Edge Detector for Images
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Jan", "Wijffels", role = c("aut", "cre", "cph"), email = "jwijffels@bnosac.be"), 
     person("BNOSAC", role = "cph"), 
@@ -15,13 +15,13 @@ Encoding: UTF-8
 Imports: Rcpp (>= 0.12.9)
 LinkingTo: Rcpp
 Suggests: pixmap, magick
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.2
 SystemRequirements: libpng, fftw3
 NeedsCompilation: yes
-Packaged: 2020-07-27 13:20:52 UTC; Jan
+Packaged: 2023-11-29 13:05:35 UTC; jwijffels
 Author: Jan Wijffels [aut, cre, cph],
   BNOSAC [cph],
   Vincent Maioli [ctb, cph],
   IPOL Image Processing On Line [cph]
 Repository: CRAN
-Date/Publication: 2020-08-01 11:00:02 UTC
+Date/Publication: 2023-11-29 13:30:02 UTC
